@@ -7,7 +7,7 @@ KNOU
 
 Computer Science, 2021 - Present
 
-KOITT Academy for Web Developer
+Academy for Web Developer
 
 Academy Certificate, 2020
 
