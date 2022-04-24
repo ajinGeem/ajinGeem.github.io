@@ -7,7 +7,7 @@ KNOU
 
 Computer Science, 2021 - Present
 
-Academy for Web Developer
+IT Academy for Web Developer
 
 Academy Certificate, 2020
 
